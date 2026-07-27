@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi there, I'm an AI & Full-stack Developer 👋</h1>
-  <p><i>Building scalable Serverless architectures and Enterprise-grade AI/RAG pipelines</i></p>
+  <p><i>Building AI to assist in everyday life</i></p>
 </div>
 
 <br/>
 
 ## 🚀 About Me
-- 🔭 I’m currently focused on **Enterprise AI integration**, specifically around **Retrieval-Augmented Generation (RAG)**, Agentic workflows, and Serverless Full-stack applications.
+- 🔭 I’m currently focused on **AI integration**, **AI application**, specifically around **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, Agentic workflows, and Serverless Full-stack applications.
 - 💡 My philosophy: **"Vibe Coding"** – Move fast, iterate continuously, and always aim for production-ready, industry-standard architectures.
-- 💬 Ask me about: **Next.js, FastAPI, PostgreSQL (pgvector), Prompt Engineering, and Vision-Language Models (VLMs).**
+- 💬 Ask me about: **Machine Learning, Computer Vision, Deep Learning, RAG, LLM**
 
 <br/>
 
@@ -46,11 +46,4 @@
 - **Impact:** Engineered a high-performance RESTful API utilizing FastAPI and optimized relational database schemas in PostgreSQL for real-time property matching. Developed a responsive React frontend with efficient state management to ensure a seamless booking experience.
 
 <br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THT1510&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THT1510&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
 
