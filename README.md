@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm a Senior-minded AI & Full-stack Developer 👋</h1>
+  <h1>Hi there, I'm an AI & Full-stack Developer 👋</h1>
   <p><i>Building scalable Serverless architectures and Enterprise-grade AI/RAG pipelines</i></p>
 </div>
 
