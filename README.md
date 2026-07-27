@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm an AI & Full-stack Developer 👋</h1>
+  <h1>Welcome to my Github, I'm an AI & Full-stack Developer 👋</h1>
   <p><i>Building AI to assist in everyday life</i></p>
 </div>
 
